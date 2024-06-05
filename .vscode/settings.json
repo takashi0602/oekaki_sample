@@ -1,0 +1,14 @@
+{
+  "dart.flutterSdkPath": ".fvm/versions/3.22.1",
+  "search.exclude": {
+    "**/.fvm": true
+  },
+  "files.watcherExclude": {
+    "**/.fvm": true
+  },
+  "explorer.fileNesting.enabled": true,
+  "explorer.fileNesting.patterns": {
+    "*.dart": "${capture}.g.dart"
+  },
+  "cSpell.words": ["oekaki"]
+}
